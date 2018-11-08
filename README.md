@@ -38,6 +38,7 @@ Code Journal - 100 days of coding
     <td>4 Hours</td>
     <td>CSS [flexbox]</td>
   </tr>
-  </tr>
-</table>
+</table>  <br>
+    <p> <strong>11/7/2018</strong> I also completed the CSS Quiz on <strong>W3SCHOOL.COM</strong><br>
+      72% my first try then 100% my second try at 3:25 minutes!</p>
 </body>
