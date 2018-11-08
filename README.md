@@ -33,6 +33,11 @@ Code Journal - 100 days of coding
     <td>1 Hour</td>
     <td>CSS</td>
   </tr>
+  <tr>
+    <td>11/7/2018</td>
+    <td>4 Hours</td>
+    <td>CSS [flexbox]</td>
+  </tr>
   </tr>
 </table>
 </body>
