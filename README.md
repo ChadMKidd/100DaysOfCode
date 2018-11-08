@@ -28,6 +28,11 @@ Code Journal - 100 days of coding
     <td>5 Hours</td>
     <td>HTML</td>
   </tr>
+   <tr>
+    <td>11/6/2018</td>
+    <td>1 Hour</td>
+    <td>CSS</td>
+  </tr>
   </tr>
 </table>
 </body>
